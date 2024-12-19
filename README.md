@@ -1,4 +1,4 @@
-# Email Generation using Gen AI 
+# Contextual Email generation using Gen Ai based on job posting url.
 
 This tool is designed to generate personalized emails based on a given URL and user-inputted prompt. It simplifies the process of extracting relevant data from web pages and generating tailored email content with the help of cutting-edge technologies.
 
